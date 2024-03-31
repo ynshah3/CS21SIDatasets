@@ -4,7 +4,7 @@ Table of Contents
 [1] [Student Dropout](#predict-students-dropout-and-academic-success)
 
 ## Predict Students' Dropout and Academic Success
-from https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success.
+from [https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success).
 
 |Marital status|Application mode|Application order|Course|Daytime/evening attendance|Previous qualification|Previous qualification (grade)|Nationality|Mother's qualification|Father's qualification|Mother's occupation|Father's occupation|Admission grade|Displaced|Educational special needs|Debtor|Tuition fees up to date|Gender|Scholarship holder|Age at enrollment|International|Curricular units 1st sem (credited)|Curricular units 1st sem (enrolled)|Curricular units 1st sem (evaluations)|Curricular units 1st sem (approved)|Curricular units 1st sem (grade)|Curricular units 1st sem (without evaluations)|Curricular units 2nd sem (credited)|Curricular units 2nd sem (enrolled)|Curricular units 2nd sem (evaluations)|Curricular units 2nd sem (approved)|Curricular units 2nd sem (grade)|Curricular units 2nd sem (without evaluations)|Unemployment rate|Inflation rate|GDP|Target|
 |-|--|-|---|-|-|-----|-|--|--|-|-|-----|-|-|-|-|-|-|--|-|-|-|-|-|---|-|-|-|-|-|---|-|----|---|----|-------|
